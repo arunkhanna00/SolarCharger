@@ -7,6 +7,7 @@ Using this PCB, you can charge a LiPo/Li-Ion battery with a solar panel and get 
 - MPPT
 
 The voltage range for the input solar panel is 4-28 V.
+
 The maximum current drawn from battery is around 800 mA
 
 
